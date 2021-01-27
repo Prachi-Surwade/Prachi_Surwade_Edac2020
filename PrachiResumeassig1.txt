@@ -1,0 +1,215 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <fieldset>
+   <h2 style="text-align: center;">PRACHI SURWADE</h2> 
+   <h4 style="text-align: center;">Contact No. : +917821006295</h4>
+   <h4 style="text-align: center;">E-mail: prachips1490@gmail.com</h4>
+   <img src="resume3.png" alt="passport" width="200" height="200" align=right>
+   
+   <h3><p><b><u>Permanent Address</h3></u></b></p>   
+   <p>C/o. Mr. Mukund G. Tayade</p>
+    <p>605 shree Ganesh Apartment,</p> 
+    <p>Plot No.113, Near ONGC signal</p>
+    <p>Kalundre,, Panvel</p>
+    <p>Dist- Maharashtra, INDIA - 444101.</p> 
+   
+   
+   <hr>
+  
+   <h3> 
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+        CAREER OBJECTIVES
+    </h3>
+      
+   <p>	I am seeking a position that,will utilize my skills and offer the chance for advancement as well as allow me the opportunity to gain additional skills and experience. So that, I can assist others while challenging and expanding my knowledge and understanding of the task at hand.
+   </p>
+
+ 
+   <h3>
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+    BASIC ACADEMIC CREDENTIALS
+ </h3>
+<table border="1" cellspacing=0 cellpadding=4>
+    <tr>
+        <th>Exam Passed</th>
+        <th>Name of the Institute</th>
+        <th>Board/University</th>
+        <th>Year</th>
+        <th>Percentage</th>
+    </tr>
+
+    <tr> 
+        				 
+        
+        <td>M.E. </td>
+        <td>K. K. Wagh College of Engineering, Nasik
+            </td>
+        <td>Pune University	</td>
+        <td>
+            2017
+            </td>
+            <td>7.610 (CGPA)</td>
+
+    </tr>
+
+    <tr> 
+        	 
+        
+        <td>B.E. </td>
+        <td>GF’ Godavari college ofEngineering,Jalgaon
+            </td>
+        <td>NMU	</td>
+        <td>
+            M-2014
+            </td>
+            <td>59.139%</td>
+
+    </tr>
+
+    <tr>
+        <td>H.S.C</td>
+        <td>Nutan Maratha College, Jalgaon</td>
+        <td>Nashik Board</td>
+        <td>F-2008</td>
+        <td>53.50%</td>
+    </tr>
+
+    <tr>
+        <td>S.S.C.</td>
+        <td>P. N.L.Kanya School, Jalgaon</td>
+        <td>Nashik Board</td>
+        <td>M-2006</td>
+        <td>58.53%</td>
+    </tr>
+
+</table>
+
+
+
+
+  
+<h3>
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+        TEACHING EXPERIENCE
+</h3>
+<ul>
+   <li>	Worked as an Assistant Professor (Contract Basis) in the K.C.E Society's M. J. College jalgaon, from 15 January 2018 to 15 april 2019.
+</li>  
+   <li>	Worked as Assistant Professor in Government college of Engineering  Jalgaon, from  22nd Jully 2019 to 16 Octo ber 2019.
+</li>  
+   
+</ul>
+
+
+    <h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+            Skills
+    </h3>
+    <ul>
+       <li>	Consistent contribution to the department, Proactive-ness in anticipating problems, issues and generates practical solutions.
+    <li>Learning skills and Functional knowledge to train others.</li>
+    <li> Successful completion of tasks/goals on time.</li>
+    <li>   Self-Motivated, Optimistic, Good team member.</li>
+    <li> <b>  Programming Languages: C, C++, CSS3, HTML5.JavaScript, PHP</b></li>
+    </ul>
+
+     
+    <h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+            PROJECTS UNDERTAKEN/UNDERTAKING
+    </h3>
+    <ul>
+       <li><b> M.E. Project Name:</b> Clustering Techniques for Mining Big Data.<br> 
+       <b>Description:</b>	In this research to proposed architecture for analysing the multiple data mining algorithm for Map-Reduce architecture. This research mainly focused on clustering techniques which includes k-medoid and Birch.<br><br>  
+        
+      <li><b>B.E. Project Name:</b> Mail Reader Using Face Recognition.<br>
+       <b>Description:</b> Designed an application to allow the user to send /receive emails like ordinary email client but instead of asking the user to specify the username and password the face recognition module must do the authentication.	</li>  
+      
+    </ul>
+   
+
+
+    <h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+            RESEARCH WORK SUBMITTED/PUBLISHED
+    </h3>
+    <ol type="1" >
+       <li>Prachi Surwade and S.S.Banait, “A Survey on Clustering Techniques for Mining Big Data”, International Journal for Scientific Research and Development (IJARSMT), Vol.-2, Issue-3, ISSN:2454-4159,  PP-1-10, February-2016.</li><br> 
+       <li>Prachi Surwade and S.S.Banait, “Performance of Clustering Techniques on Big Data”, International Conference on Emerging Trends in Computing (ETC) organised by K. K. Wagh Institute of EngineeringEducation & Research(KKWIEER) Vol.-4, ISBN-(973-93-80975-04-4),  PP-28-34, March-2016 held on 17-18 June,2016.</li><br>   
+       <li>Prachi Surwade and S.S.Banait, “Clustering Techniques For Mining Big Data”, 5th Post Graduate Conference of Computing Engineering (cPGCON 2016), March-2016 held on 25th-26th ,2016.</li>   
+    </ol>
+
+    <h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+            WORKSHOP ATTENDED
+    </h3>
+    <ul>
+    <li>Actively participated in the workshop on “DOT NET and SQL” at GF’s GCOE in 2012.</li>
+
+    <li>Actively participated in Two-day workshop on “LINUX” at GF’s GCOE in 16-17 September, 2013.</li>
+    
+</ul>
+    
+<h3>
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+        AREA OF INTEREST
+</h3> 
+    <ul>
+        <li> Data Structure,  Data Mining ,Web Designing </li>
+
+    </ul> 
+    <h3>
+    <div style="background-color:grey;color:black; padding:0.5%px;">
+        CERTIFICATES
+</h3> 
+    <ul>
+        <li> Certificate of C++ Programming from Softaid Computer Institute in 2007.</li><br>
+            <li>   Certificate of JAVA Programming from Softaid Computer Institute in 2012.</li><br>
+                <li>      Participated in “C Programming of PHOENIX 2K11” A National Level Event at GF’s GCOE in 2011.</li><br>
+                    <li>   Participated in “SEED IT IDOL” Competition organized by SEED Infotech Ltd. in 2014.</li><br>
+                        <li>    Participated in “C-SPLASH-10” A State Level Technical competition at K.C.E.S’s college of Engg. in 2010. </li>
+
+    </ul> 
+    
+    
+
+   
+    <h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+            PERSONAL PROFILE </h3>
+    <ul>
+        <li><b>Name :         </b> Miss. Prachi Pralhad Surwade</li><br>
+        <li><b>Date of Birth :</b>14th Jan 1990</li><br>
+       <li><b>Father’s Name	: </b>Mr. Pralhad G. Surwade</li><br>
+       <li><b>Mother’s Name	: </b>Mrs. Surekha P.  Surwade</li><br>
+       <li><b>Strength :         </b>Creativity, Confident and Smart Working</li><br>
+        <li><b>Language known :</b>English, Hindi, Marathi.</li><br>
+        <li><b>Gender		:  	</b>Female        </li><br>
+        <li><b>Marital status :</b>Married</li><br>
+         <li><b>Nationality	: </b>	Indian</li><br>
+    </ul>
+
+
+    <h3>
+        <div style="background-color:grey;color:black; padding:0.5%px;">
+        DECLARATION
+    </h3>
+   <p> I hereby declare that all the details furnished above are true to the best of my knowledge and belief.
+
+   <p><b>Place:</b>Jalgaon</p>
+   <p><b>Date:</b></p>
+   <h4 style="text-align: right;">Prachi Surwade</h4>
+    
+  
+</fieldset>
+   
+
+   
+</body>
+</html>
